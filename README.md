@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Honeyfone
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects and data analysis
 - 📫 How to reach me shadareolukayode@gmail.com
 
