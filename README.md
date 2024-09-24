@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Honeyfone
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning web development  and andriod studio
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects and data analysis
-- 📫 How to reach me jclam4goal@gmail.com
+- 📫 How to reach me shadareolukayode@gmail.com
 
 <!---
 Honeyfone/Honeyfone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
